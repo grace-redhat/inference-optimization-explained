@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/demonav.tsx","./src/components/hatlogo.tsx","./src/components/rhdoclink.tsx","./src/config/demos.ts","./src/data/prefixgame.ts","./src/data/quantizationquiz.ts","./src/pages/homepage.tsx","./src/pages/quantizationpage.tsx","./src/pages/speculativedecodingpage.tsx"],"errors":true,"version":"5.8.3"}
