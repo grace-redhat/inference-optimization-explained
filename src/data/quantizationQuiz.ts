@@ -1,7 +1,7 @@
 // ─── Image-based quantization quiz ───────────────────────────────────────────
 //
-// Images live in `public/`. Use `publicUrl('filename.png')` so `base: './'`
-// deployments resolve correctly (do not use raw `src/assets/…` strings).
+// Images live in `public/`. Use `publicUrl('filename.png')` so Vite `base` is applied.
+// Use `base: '/'` (or `/subdir/`) for hosting — `base: './'` breaks nested client routes.
 //
 // Multiple-choice options are built from ANSWER_BANK: four labels are chosen at
 // random per question — always including the correct `name` plus three distractors.
